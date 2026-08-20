@@ -10,6 +10,8 @@
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
+    "postbuild": "npm run generate-sitemap",
+    "generate-sitemap": "node scripts/generate-sitemap.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
