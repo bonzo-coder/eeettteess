@@ -1,0 +1,1 @@
+const a="/assets/palletizer1-BA8IbPO9.avif",e="/assets/palletizer2.jpg-C494uo0G.avif",s="/assets/palletizer3.jpg-BQRXSkqX.avif",t="/assets/palletizer4.jpg-CGfu8JbK.avif";export{s as a,e as b,a as c,t as p};
